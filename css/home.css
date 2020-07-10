@@ -307,3 +307,25 @@ main {
     margin-bottom: 30px;
     color: white;
 }
+.stake-container{
+	padding: 1.2rem
+}
+.main-stake{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.stake-container img{
+	width: 124px;
+}
+.sketch-container{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+.sketch-container img{
+	height: 159px;
+    margin-top: 2rem;
+}
